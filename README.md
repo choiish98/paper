@@ -5,6 +5,8 @@
 <br>
 
 ## Table of Content
+- [Paper](#paper)
+  - [Table of Content](#table-of-content)
 - [2022](#2022)
 - [All list](#all-list)
 
@@ -16,5 +18,6 @@
  - 2022-07-28-Leap
  - 2022-08-09-Fastswap
  - 2022-09-22-Ledbat
+ - 2022-11-20-LRB
 
 # [All list](https://github.com/choiish98/paper/tree/main/All-list)
